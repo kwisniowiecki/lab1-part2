@@ -57,6 +57,10 @@ body {
   margin-top: 20px;
 }
 
+.circles {
+   display: none; 
+}
+
 /* Responsive Desktop Section */
 
 @media only screen and (min-width: 768px) {
@@ -99,7 +103,10 @@ body {
     height: 100px;
     width: 100px;
     border-radius: 50%;
+}
 
+.circles {
+    display: block;
 }
 
 }
