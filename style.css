@@ -69,12 +69,15 @@ body {
 .nav-items {
  display: flex;
  align-items: center;
- 
 }
 
 .nav-item {
  margin: left;
  padding: 10px;
+}
+
+.about {
+    width: 50%;
 }
 
 }
